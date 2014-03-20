@@ -30,5 +30,6 @@ If you don't, navigate to my repository and download RubyWSJSON, that is what im
 
 Here are some videos of it working:
 
-
+https://www.youtube.com/watch?v=UJuhy5FLUZI&feature=youtu.be
+https://www.youtube.com/watch?v=LxSFft0QUBk&feature=youtu.be
 
